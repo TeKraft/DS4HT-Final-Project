@@ -17,3 +17,8 @@ The complete report on the analysis, limited to a specified number of pages, can
 
 - Clone github repository
 - run jupyter notebook in "script" folder
+
+### Authors
+
+Ana Peralta
+Torben Kraft
